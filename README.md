@@ -1,5 +1,5 @@
 # Inspire Me ~~Rails~~ Node
-[![Build Status](https://travis-ci.org/joao29a/inspire-me-rails.svg?branch=master)]
+[![Build Status](https://travis-ci.org/joao29a/inspire-me-node.svg?branch=master)]
 (https://travis-ci.org/joao29a/inspire-me-node)
 
 WebService of random quotes from people around the galaxy. Just a project
