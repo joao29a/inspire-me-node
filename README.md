@@ -1,9 +1,9 @@
-# Inspire Me Rails
+# Inspire Me ~~Rails~~ Node
 [![Build Status](https://travis-ci.org/joao29a/inspire-me-rails.svg?branch=master)]
 (https://travis-ci.org/joao29a/inspire-me-rails)
 
 WebService of random quotes from people around the galaxy. Just a project
-to flick around with ruby on rails web service module, with unit testing
+to flick around with ~~ruby on rails~~ Express.js, Node.js and MongoDB, with unit testing
 and making use of a continuous integration tool [Travis-CI](https://travis-ci.org/).
 
 # License
