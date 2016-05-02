@@ -1,6 +1,6 @@
 # Inspire Me ~~Rails~~ Node
 [![Build Status](https://travis-ci.org/joao29a/inspire-me-rails.svg?branch=master)]
-(https://travis-ci.org/joao29a/inspire-me-rails)
+(https://travis-ci.org/joao29a/inspire-me-node)
 
 WebService of random quotes from people around the galaxy. Just a project
 to flick around with ~~ruby on rails~~ Express.js, Node.js and MongoDB, with unit testing
