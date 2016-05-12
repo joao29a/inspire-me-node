@@ -1,6 +1,10 @@
 language: node_js
 services:
   - mongodb
-before_script:
+install:
   - npm install -g mocha
-script: mocha
+  - npm install -g codecov
+  - npm install -g istanbul
+script:
+  - istanbul cover mocha --report lcovonly -- -R spec
+  - codecov
